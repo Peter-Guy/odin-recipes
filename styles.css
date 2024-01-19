@@ -3,3 +3,13 @@ ul {
     font-family: monospace;
     text-align:center;
 }
+li{
+    list-style: none;
+    border: 4px inset #58a50f;
+    display: block;
+    padding: 10px;
+    margin: 25px;
+}
+ul :hover{
+    background-color: #028d1950;
+}
