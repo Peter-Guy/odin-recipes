@@ -13,3 +13,6 @@ li{
 ul :hover{
     background-color: #028d1950;
 }
+img{
+    border: 3px ridge rgb(156, 72, 3);
+}
